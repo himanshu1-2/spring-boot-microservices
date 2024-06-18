@@ -28,7 +28,7 @@ Manages product information.
 
 ## Architecture Diagram
 
-![Architecture Diagram](path/to/diagram.png)
+https://drive.google.com/file/d/1uLoJXjgv5Tlvd5HltljsRaVDhMKqUR9m/view?usp=drive_link
 
 ## Project Setup
 
