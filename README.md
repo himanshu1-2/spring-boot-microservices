@@ -1,4 +1,5 @@
-#E-Commerce Microservices Project
+E-Commerce Microservices Project
+
 Overview
 This project is a Spring Boot-based microservices architecture for an e-commerce platform. It includes services for inventory, orders, and products. Key features include service discovery with Eureka, authentication with Keycloak, messaging with Kafka, API gateway implementation, circuit breaker pattern, and distributed tracing using Zipkin. Testing is facilitated using Testcontainers.
 
