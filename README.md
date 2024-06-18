@@ -44,7 +44,7 @@ Manages product information.
 
 ### Running the Services
 
- # Start Eureka Server**
+ # Start Eureka Server
    cd eureka-server
    mvn spring-boot:run
 
