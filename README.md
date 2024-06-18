@@ -28,7 +28,7 @@ Manages product information.
 
 ## Architecture Diagram
 
-https://drive.google.com/file/d/1uLoJXjgv5Tlvd5HltljsRaVDhMKqUR9m/view?usp=drive_link
+![WhatsApp Image 2024-06-18 at 1 17 12 PM](https://github.com/himanshu1-2/EmployeeDb/assets/34888386/754e4657-aea4-4b2d-87b9-762ac6c41cd3)
 
 ## Project Setup
 
@@ -57,18 +57,4 @@ docker-compose -f kafka-docker-compose.yml up
 # Start Zipkin
 docker run -d -p 9411:9411 openzipkin/zipkin
 
-# Start Inventory Service
-cd inventory-service
-mvn spring-boot:run
 
-# Start Order Service
-cd order-service
-mvn spring-boot:run
-
-# Start Product Service
-cd product-service
-mvn spring-boot:run
-
-# Start API Gateway
-cd api-gateway
-mvn spring-boot:run
